@@ -1,4 +1,4 @@
-100maths = int(input("enter the marks of maths:  "))
+maths = int(input("enter the marks of maths:  "))
 science = int(input("enter the marks of science:  "))
 social = int(input("enter the marks of social  "))
 average = (maths + science + social) // 3
